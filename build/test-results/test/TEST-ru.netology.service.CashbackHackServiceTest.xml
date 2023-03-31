@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="ru.netology.service.CashbackHackServiceTest" tests="6" skipped="0" failures="1" errors="0" timestamp="2023-03-31T19:13:16" hostname="DESKTOP-LNOBE4V" time="0.012">
+<testsuite name="ru.netology.service.CashbackHackServiceTest" tests="6" skipped="0" failures="1" errors="0" timestamp="2023-03-31T19:31:32" hostname="DESKTOP-LNOBE4V" time="0.011">
   <properties/>
-  <testcase name="testRemainLowBorder" classname="ru.netology.service.CashbackHackServiceTest" time="0.006"/>
+  <testcase name="testRemainLowBorder" classname="ru.netology.service.CashbackHackServiceTest" time="0.005"/>
   <testcase name="testRemainHightBorder" classname="ru.netology.service.CashbackHackServiceTest" time="0.0"/>
   <testcase name="testRemainWithCashback" classname="ru.netology.service.CashbackHackServiceTest" time="0.0"/>
   <testcase name="testRemainOverBorder" classname="ru.netology.service.CashbackHackServiceTest" time="0.0"/>
